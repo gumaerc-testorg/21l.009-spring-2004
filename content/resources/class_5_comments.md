@@ -10,8 +10,13 @@ description: 'At the beginning of class #5, the instructor asked students to mak
 
   thoughts about the film version directed by Kenneth Branagh. Here are some of their
   responses.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21l-009-shakespeare-spring-2004/3a1556e8fa6aa111b00c56fc6a6b10bc_class_5_comments.pdf
+file: /media/courses/21l-009-shakespeare-spring-2004/3a1556e8fa6aa111b00c56fc6a6b10bc_class_5_comments.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: class_5_comments.pdf
 uid: 3a1556e8-fa6a-a111-b00c-56fc6a6b10bc

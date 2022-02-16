@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Instructions for essay assignment with list of suggested topics.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21l-009-shakespeare-spring-2004/45c97a9bf98fc2919816fec7a9a2b48f_compessay04.pdf
+file: /media/courses/21l-009-shakespeare-spring-2004/45c97a9bf98fc2919816fec7a9a2b48f_compessay04.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: compessay04.pdf
 uid: 45c97a9b-f98f-c291-9816-fec7a9a2b48f
