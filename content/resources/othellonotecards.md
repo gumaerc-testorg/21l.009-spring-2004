@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: eb04e9c4-2e58-5737-94cc-51ac8607e8c8
 resourcetype: Document
 title: othellonotecards.pdf
 uid: 60c3f987-fda1-d1d4-5e48-68df074d33bf

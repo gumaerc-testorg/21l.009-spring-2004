@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: eb04e9c4-2e58-5737-94cc-51ac8607e8c8
 resourcetype: Document
 title: hutch.pdf
 uid: 1c1ee0fd-5b3a-22d8-be47-cf02def61ef3

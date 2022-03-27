@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: eb04e9c4-2e58-5737-94cc-51ac8607e8c8
 resourcetype: Document
 title: compessay04.pdf
 uid: 45c97a9b-f98f-c291-9816-fec7a9a2b48f

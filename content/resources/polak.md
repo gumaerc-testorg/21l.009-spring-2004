@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: eb04e9c4-2e58-5737-94cc-51ac8607e8c8
 resourcetype: Document
 title: polak.pdf
 uid: 6b8c9c20-1b46-6e2c-94f1-a0e15e590f1a

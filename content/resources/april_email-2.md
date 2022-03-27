@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 021eaa39-a353-6e9f-252c-38aa0b95f5e0
 resourcetype: Document
 title: april_email.pdf
 uid: e9dc26a1-5f1e-0d9b-5e58-0a01ed88793c

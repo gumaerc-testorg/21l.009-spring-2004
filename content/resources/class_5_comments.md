@@ -17,6 +17,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: eb04e9c4-2e58-5737-94cc-51ac8607e8c8
 resourcetype: Document
 title: class_5_comments.pdf
 uid: 3a1556e8-fa6a-a111-b00c-56fc6a6b10bc
