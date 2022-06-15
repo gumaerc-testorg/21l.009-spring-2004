@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -7,9 +8,9 @@ title: Readings
 uid: 021eaa39-a353-6e9f-252c-38aa0b95f5e0
 ---
 
-In addition to the readings listed below for the Spring 2004 version of the course, you may also download Prof. Shankar Raman's syllabus from his version of the course ([PDF]({{< baseurl >}}/resources/21l009_f03-1)). The syllabus includes his reading list.
+In addition to the readings listed below for the Spring 2004 version of the course, you may also download Prof. Shankar Raman's syllabus from his version of the course ({{% resource_link fe4d1df1-0188-faf1-a1df-79a5e0eeacf3 "PDF" %}}). The syllabus includes his reading list.
 
-The following texts are used in the course. See the [assignments section]({{< baseurl >}}/pages/assignments#acs) for details on how the readings are timed with the essays and other requirements of the course. Links to downloadable versions of each text are provided below.
+The following texts are used in the course. See the {{% resource_link eb04e9c4-2e58-5737-94cc-51ac8607e8c8 "assignments section" "#acs" %}} for details on how the readings are timed with the essays and other requirements of the course. Links to downloadable versions of each text are provided below.
 
 Bevington, David, ed. _A Midsummer Night's Dream_. New York: Bantam, 1988. ISBN: 0553213008. ([Download](http://www.gutenberg.org/etext/2242) a version from Project Gutenberg)
 
@@ -18,7 +19,7 @@ Bevington, David, ed. _A Midsummer Night's Dream_. New York: Bantam, 1988. ISBN
 Raffel, Burton, ed. _Hamlet_. New Haven: Yale University Press, 2003. ISBN: 0300101759. ([Download](http://www.gutenberg.org/etext/2265) a version from Project Gutenberg)
 
 Hodgdon, Barbara, ed. _The First Part of King Henry the Fourth: Texts and Contexts_. Boston: Bedford, 1997. ISBN: 0312134029.  
-Also see email ([PDF]({{< baseurl >}}/resources/april_email-2)) for further readings information related to this text. ([Download](http://www.gutenberg.org/etext/1780) a version from Project Gutenberg)
+Also see email ({{% resource_link e9dc26a1-5f1e-0d9b-5e58-0a01ed88793c "PDF" %}}) for further readings information related to this text. ([Download](http://www.gutenberg.org/etext/1780) a version from Project Gutenberg)
 
 Brown, J. R., ed. _Henry the Fifth_. New York: Signet, 1998. ISBN: 0451526902. ([Download](http://www.gutenberg.org/etext/1784) a version from Project Gutenberg)
 

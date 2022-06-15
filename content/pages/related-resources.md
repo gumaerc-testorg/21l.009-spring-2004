@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains links to Royal Shakespeare Company and MIT Metamedia
+  Project.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Rehearsal guidelines and instructions for student performance assignment.
-file: /media/courses/21l-009-shakespeare-spring-2004/d9ffce0f2cc0272eb4ab087f35feb4ca_rehearsal_inst04.pdf
+file: /courses/21l-009-shakespeare-spring-2004/d9ffce0f2cc0272eb4ab087f35feb4ca_rehearsal_inst04.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Document
 title: rehearsal_inst04.pdf
 uid: d9ffce0f-2cc0-272e-b4ab-087f35feb4ca
 ---
+Rehearsal guidelines and instructions for student performance assignment.
+

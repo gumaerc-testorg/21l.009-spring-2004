@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Sample student essay.
-file: /media/courses/21l-009-shakespeare-spring-2004/1c1ee0fd5b3a22d8be47cf02def61ef3_hutch.pdf
+file: /courses/21l-009-shakespeare-spring-2004/1c1ee0fd5b3a22d8be47cf02def61ef3_hutch.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Document
 title: hutch.pdf
 uid: 1c1ee0fd-5b3a-22d8-be47-cf02def61ef3
 ---
+Sample student essay.
+

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -248,7 +249,7 @@ _Hamlet_ (cont.)
 Begin _Henry IV, Part I_
 {{< tdclose >}}
 {{< tdopen >}}
-Course status email ([PDF]({{< baseurl >}}/resources/april_email-1))
+Course status email ({{% resource_link 16509fcf-e5b1-a093-0d99-16750b2787c8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
