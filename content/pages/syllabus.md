@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 9f51c115-4d16-bfbe-a66e-36dc1cfd77b8
 ---
@@ -12,9 +15,9 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Syllabus Notes
 --------------
 
-Below is the syllabus for the Spring 2004 version of the course. You may also download a version from Prof. Shankar Raman's version of the course ([PDF]({{< baseurl >}}/resources/21l009_f03)). The syllabus includes background information about the course as well as the reading list.
+Below is the syllabus for the Spring 2004 version of the course. You may also download a version from Prof. Shankar Raman's version of the course ({{% resource_link f4a5855d-3b46-f619-10c0-1d18d31e14cb "PDF" %}}). The syllabus includes background information about the course as well as the reading list.
 
-Also note that an email ([PDF]({{< baseurl >}}/resources/april_email)) was sent to students during the term regarding the status of the course and workload.
+Also note that an email ({{% resource_link 2be2289c-5779-15f8-0d17-6cecae6b44c4 "PDF" %}}) was sent to students during the term regarding the status of the course and workload.
 
 Course Requirements
 -------------------

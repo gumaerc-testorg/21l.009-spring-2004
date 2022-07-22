@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Exams
+ocw_type: CourseSection
 title: Exams
 uid: f9bf71ca-0b90-95db-12f4-9e7444565fc4
 ---
 
-In addition to the exam shown below, you may also download a quiz ([PDF]({{< baseurl >}}/resources/quiz_1_009f03)) by Prof. Shankar Raman.
+In addition to the exam shown below, you may also download a quiz ({{% resource_link d002b364-babd-4c85-3f7f-59374cbf0864 "PDF" %}}) by Prof. Shankar Raman.
 
 Past Instructions for the Final Examination
 -------------------------------------------
