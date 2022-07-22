@@ -14,6 +14,7 @@ file: /courses/21l-009-shakespeare-spring-2004/3a1556e8fa6aa111b00c56fc6a6b10bc_
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -26,4 +27,3 @@ At the beginning of class #5, the instructor asked students to make three commen
 notecards: these could be comments comparing Much Ado About Nothing with the previous
 comedy we had discussed (A Midsummer Night ?s Dream ), questions about Much Ado, or
 thoughts about the film version directed by Kenneth Branagh. Here are some of their responses.
-

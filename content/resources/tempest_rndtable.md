@@ -5,6 +5,7 @@ file: /courses/21l-009-shakespeare-spring-2004/85562ba6b37a0846a360e5af1f264ba5_
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: tempest_rndtable.pdf
 uid: 85562ba6-b37a-0846-a360-e5af1f264ba5
 ---
 Instructions for a student exercise.
-

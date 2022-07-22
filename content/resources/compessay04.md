@@ -5,6 +5,7 @@ file: /courses/21l-009-shakespeare-spring-2004/45c97a9bf98fc2919816fec7a9a2b48f_
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: compessay04.pdf
 uid: 45c97a9b-f98f-c291-9816-fec7a9a2b48f
 ---
 Instructions for essay assignment with list of suggested topics.
-

@@ -5,6 +5,7 @@ file: /courses/21l-009-shakespeare-spring-2004/9b4dd35735ce3590d2c73bb79cb40561_
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: rosenberg.pdf
 uid: 9b4dd357-35ce-3590-d2c7-3bb79cb40561
 ---
 Sample student essay.
-

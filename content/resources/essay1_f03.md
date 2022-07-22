@@ -5,6 +5,7 @@ file: /courses/21l-009-shakespeare-spring-2004/5d91187c72dc5f883f11d9e8b0267a10_
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: essay1_f03.pdf
 uid: 5d91187c-72dc-5f88-3f11-d9e8b0267a10
 ---
 Instructions for essay assignment.
-
