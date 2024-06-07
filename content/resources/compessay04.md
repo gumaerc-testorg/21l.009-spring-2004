@@ -2,6 +2,7 @@
 content_type: resource
 description: Instructions for essay assignment with list of suggested topics.
 file: /courses/21l-009-shakespeare-spring-2004/45c97a9bf98fc2919816fec7a9a2b48f_compessay04.pdf
+file_size: 88535
 file_type: application/pdf
 learning_resource_types:
 - Assignments
