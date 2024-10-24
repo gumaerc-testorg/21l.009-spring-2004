@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Guidelines and suggestions for peer editing.
-file: /courses/21l-009-shakespeare-spring-2004/2bd3a317dc42e6223fd25c5728f8a110_editing.pdf
+file: /ol-ocw-studio-app/courses/21l-009-shakespeare-spring-2004/2bd3a317dc42e6223fd25c5728f8a110_editing.pdf
 file_size: 75852
 file_type: application/pdf
 learning_resource_types:
