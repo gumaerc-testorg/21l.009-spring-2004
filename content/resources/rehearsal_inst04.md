@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Rehearsal guidelines and instructions for student performance assignment.
-file: /courses/21l-009-shakespeare-spring-2004/d9ffce0f2cc0272eb4ab087f35feb4ca_rehearsal_inst04.pdf
+file: /ol-ocw-studio-app/courses/21l-009-shakespeare-spring-2004/d9ffce0f2cc0272eb4ab087f35feb4ca_rehearsal_inst04.pdf
 file_size: 91689
 file_type: application/pdf
 learning_resource_types:
