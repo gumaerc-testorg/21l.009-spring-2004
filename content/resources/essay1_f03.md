@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Instructions for essay assignment.
-file: /courses/21l-009-shakespeare-spring-2004/5d91187c72dc5f883f11d9e8b0267a10_essay1_f03.pdf
+file: /ol-ocw-studio-app/courses/21l-009-shakespeare-spring-2004/5d91187c72dc5f883f11d9e8b0267a10_essay1_f03.pdf
 file_size: 113908
 file_type: application/pdf
 learning_resource_types:
