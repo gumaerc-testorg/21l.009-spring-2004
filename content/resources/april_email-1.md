@@ -2,7 +2,7 @@
 content_type: resource
 description: This email was sent to students during the term regarding the status
   of the course and workload.
-file: /courses/21l-009-shakespeare-spring-2004/16509fcfe5b1a0930d9916750b2787c8_april_email.pdf
+file: /ol-ocw-studio-app/courses/21l-009-shakespeare-spring-2004/16509fcfe5b1a0930d9916750b2787c8_april_email.pdf
 file_size: 41574
 file_type: application/pdf
 learning_resource_types: []

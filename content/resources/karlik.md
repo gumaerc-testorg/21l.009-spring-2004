@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Sample student essay.
-file: /courses/21l-009-shakespeare-spring-2004/c14ad869d0eadb914cf9113836a6eafb_karlik.pdf
+file: /ol-ocw-studio-app/courses/21l-009-shakespeare-spring-2004/c14ad869d0eadb914cf9113836a6eafb_karlik.pdf
 file_size: 35568
 file_type: application/pdf
 learning_resource_types:
